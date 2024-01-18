@@ -1,5 +1,5 @@
 # Real-time-Image-Processing-Face-Detection-using-Python
-EExam Cheating Identifier project, developed with Python, OpenCV, Dlib, and Tkinter, employs image
+Exam Cheating Identifier project, developed with Python, OpenCV, Dlib, and Tkinter, employs image
 processing to detect and prevent cheating during exams. It captures and analyzes exam environments in
 realtime, using facial recognition to match students' identities and OpenCV to spot cheating behaviors. Suspicious
 activity triggers immediate alerts through a user-friendly Tkinter frontend, enabling swift intervention by exam
